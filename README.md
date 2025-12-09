@@ -1,12 +1,3 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Hello%20there%20👋&fontSize=60&animation=fadeIn&fontAlignY=45" 
-    alt="Hello there banner"
-/>
-</p>
-
----
-
 ### 👋 Hi there, I’m Adriana! :)
 
 - 👀 Passionate about **Data Science, Python, Data Analysis, and Excel**
